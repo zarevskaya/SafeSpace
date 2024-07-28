@@ -10,12 +10,12 @@
     <string name="dark_theme_text">Sombre</string>
     <string name="light_theme_text">Clair</string>
     <string name="amoled_theme_text">Amoled sombre</string>
-    <string name="export_backup_msg">Exportation d'une archive zip en arrière-plan, les fichiers volumineux prendront du temps..</string>
+    <string name="export_backup_msg">Exportation d'une archive zip en arrière-plan, les fichiers volumineux prendront du temps...</string>
     <string name="export_backup_success">Exportation terminée</string>
     <string name="backup_err_space">Pas assez de stockage disponible</string>
     <string name="import_backup">Importer une sauvegarde Zip</string>
     <string name="backup_err_other">Erreur inattendue, veuillez réessayer</string>
-    <string name="import_backup_msg">Importation d'une archive zip en arrière-plan, les fichiers volumineux prendront du temps..</string>
+    <string name="import_backup_msg">Importation d'une archive zip en arrière-plan, les fichiers volumineux prendront du temps...</string>
     <string name="open_camera">Camera</string>
     <string name="photo">Photo</string>
     <string name="video">Vidéo</string>
